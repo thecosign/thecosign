@@ -7,9 +7,6 @@
  * @package Stacker
  */
 ?><!DOCTYPE html>
-
-<!-- testing -->
-
 <html <?php language_attributes(); ?>>
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
